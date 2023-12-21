@@ -1,6 +1,6 @@
 # angkit_customer
 
-![Angkit Agro](assets/logo.png)
+![Angkit Agro](assets/img/logo.png)
 
 Angkit agro QR customer application (scanner)
 

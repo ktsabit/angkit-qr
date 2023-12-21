@@ -50,7 +50,7 @@ class _DetailSheetState extends State<DetailSheet> {
                 child: Column(
                   children: [
                     const SizedBox(height: 40),
-                    Image.asset('assets/logo.png', width: 100),
+                    Image.asset('assets/img/logo.png', width: 100),
                     const SizedBox(height: 20),
                     Container(
                       decoration: const BoxDecoration(
